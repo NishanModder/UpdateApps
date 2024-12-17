@@ -3,7 +3,7 @@
         {
             "version": "1.1",
             "title": "New Update Available!",
-            "cancelable": "true",
+            "cancelable": "false",
             "description": "Bug fixes and improvements.",
             "download_link": "https://example.com/update.apk"
         }

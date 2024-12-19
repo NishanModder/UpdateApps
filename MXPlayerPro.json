@@ -1,0 +1,11 @@
+{
+    "fnmods_update": [
+        {
+            "version": "1.0",
+            "title": "New Update Available!",
+            "cancelable": false,
+            "description": "Bug fixes and improvements.",
+            "download_link": "https://example.com/update.apk"
+        }
+    ]
+}

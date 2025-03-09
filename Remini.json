@@ -1,0 +1,12 @@
+{
+    "fnmods_update": [
+        {
+            "version": "1.0",
+            "title": "New Update Available!",
+            "cancelable": false,
+            "description": "New version coming soon.
+Bug fixes and improvements.",
+            "download_link": "https://t.me/UnlockProBD/65"
+        }
+    ]
+}

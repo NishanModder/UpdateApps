@@ -1,11 +1,10 @@
 {
-    "fnmods_update": [
-        {
-            "version": "1.1",
-            "title": "New Update Available!",
-            "cancelable": false,
-            "description": "Bug fixes,\nPerformance improvements,\nOptimized app speed,\nImproved UI,\nEnhanced stability,\nFixed crashes and minor issues,\nReduced app size,\nBetter memory management,\nSecurity fixes,\nUpdated to support the latest Android version.",
-            "download_link": "https://t.me/UnlockProBD/67"
-        }
-    ]
+  "unlockprobd_update": [
+    {
+      "version": "1.6",
+      "title": "New Update Available!",
+      "description": "A new version of the app is available with bug fixes and improvements.",
+      "download_link": "https://example.com/your-app.apk"
+    }
+  ]
 }
